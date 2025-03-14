@@ -1,3 +1,7 @@
+'''
+@Author: Juan Diego Escobar
+@Date: 14/03/2025
+'''
 from assets.enums.power_up_type import PowerUpType
 from power_up import PowerUp
 

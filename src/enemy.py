@@ -1,3 +1,7 @@
+'''
+@Author: Juan Diego Escobar
+@Date: 14/03/2025
+'''
 import pygame
 import random
 from bomb import Bomb

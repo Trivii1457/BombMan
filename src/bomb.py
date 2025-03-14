@@ -1,3 +1,8 @@
+'''
+@Author: Juan Diego Escobar
+@Date: 14/03/2025
+'''
+
 class Bomb:
     frame = 0
 
